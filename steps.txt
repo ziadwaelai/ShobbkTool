@@ -1,0 +1,4 @@
+1- creat a virtual environment
+2- activate the virtual environment
+3- install the requirements
+4- use this command : python setup.py py2app
